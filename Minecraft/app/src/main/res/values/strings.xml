@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guia de Poções de Minecraft</string>
+    <string name="strength">Força</string>
+    <string name="night_vision">Visão Noturna</string>
+    <string name="fire_resistence">Resistência à Fogo</string>
+    <string name="invisible">Invisibilidade</string>
+    <string name="super_jump">Super Pulo</string>
+</resources>
